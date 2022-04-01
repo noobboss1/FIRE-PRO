@@ -1,2 +1,2 @@
-from pro import login
-login()
+from prof import reg
+reg()
