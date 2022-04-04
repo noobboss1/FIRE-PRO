@@ -1,2 +1,2 @@
-from pro import reg
+from prof import reg
 reg()
